@@ -1,0 +1,12 @@
+C:\Users\Phong\source\repos\WareHouseServer\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Phong\source\repos\WareHouseServer\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Phong\source\repos\WareHouseServer\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+C:\Users\Phong\source\repos\WareHouseServer\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+C:\Users\Phong\source\repos\WareHouseServer\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Phong\source\repos\WareHouseServer\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache

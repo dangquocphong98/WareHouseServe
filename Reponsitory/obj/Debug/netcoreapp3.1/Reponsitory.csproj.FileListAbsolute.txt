@@ -1,0 +1,12 @@
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\bin\Debug\netcoreapp3.1\Reponsitory.deps.json
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\bin\Debug\netcoreapp3.1\Reponsitory.dll
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\bin\Debug\netcoreapp3.1\Reponsitory.pdb
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.csprojAssemblyReference.cache
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.AssemblyInfoInputs.cache
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.AssemblyInfo.cs
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.csproj.CoreCompileInputs.cache
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.dll
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.pdb
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Phong\source\repos\WareHouseServer\Reponsitory\obj\Debug\netcoreapp3.1\Reponsitory.csproj.CopyComplete
